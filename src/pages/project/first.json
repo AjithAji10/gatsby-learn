@@ -1,0 +1,12 @@
+[
+  {
+    "name": "malika",
+    "salary": 56000,
+    "married": true
+  },
+  {
+    "name": "aji",
+    "salary": 60000,
+    "married": false
+  }
+]
